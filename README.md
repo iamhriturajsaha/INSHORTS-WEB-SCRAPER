@@ -1,4 +1,4 @@
-# Inshorts Scraper Project
+# Python Web Scraper
 
 ## Overview
 
@@ -21,12 +21,10 @@ This project is a Python-based web scraper that collects the latest news article
 ## Project Structure
 
 ```
-Inshorts Scrapper Project/
-│
-├── Scrapper.py           # Main scraping script
+├── Scraper.py           # Main scraping script
 ├── requirements.txt      # Python dependencies
 ├── images/               # Downloaded article images
-└── news_data.json        # Scraped news dataset
+├── news_data.json        # Scraped news dataset
 ```
 
 ## Requirements
@@ -47,7 +45,7 @@ pip install -r requirements.txt
 
 4. Run the scraper - 
 ```
-python Scrapper.py
+python Scraper.py
 ```
 
 5. Output files will be generated - 
@@ -58,19 +56,17 @@ python Scrapper.py
 ## How to Run in Google Colab
 
 1. Upload the project zip file to Colab.
-2. Unzip the project - 
+2. Unzip the project -
 ```
-!unzip "Inshorts Scrapper Project.zip"
+!unzip "Python Web Scraper.zip"
 ```
-
 3. Install dependencies - 
 ```
-!pip install -r "Inshorts Scrapper Project/requirements.txt"
+!pip install -r requirements.txt
 ```
-
 4. Run the scraper - 
 ```
-!python "Inshorts Scrapper Project/Scrapper.py"
+!python Scraper.py
 ```
 
 5. Download the output files if needed.
