@@ -62,13 +62,12 @@ python Scraper.py
 ```
 3. Install dependencies - 
 ```
-!pip install -r requirements.txt
+!pip install -r "Inshorts Web Scraper/requirements.txt"
 ```
 4. Run the scraper - 
 ```
-!python Scraper.py
+!python "Inshorts Web Scraper/Scrapper.py"
 ```
-
 5. Download the output files if needed.
 
 ## Challenges Faced
