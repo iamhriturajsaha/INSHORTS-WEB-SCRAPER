@@ -1,4 +1,4 @@
-# Python Web Scraper
+# 🌐Python Web Scraper
 
 ## Overview
 
@@ -84,4 +84,5 @@ python Scraper.py
 * Build a dashboard for news visualization.
 * Implement news sentiment analysis using NLP.
 * Automate the scraper with scheduled jobs.
+
 
