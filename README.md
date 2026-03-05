@@ -21,7 +21,7 @@ This project is a Python-based web scraper that collects the latest news article
 ## Project Structure
 
 ```
-├── Scraper.py           # Main scraping script
+├── Scraper.py            # Main scraping script
 ├── requirements.txt      # Python dependencies
 ├── images/               # Downloaded article images
 ├── news_data.json        # Scraped news dataset
@@ -84,3 +84,4 @@ python Scraper.py
 * Build a dashboard for news visualization.
 * Implement news sentiment analysis using NLP.
 * Automate the scraper with scheduled jobs.
+
