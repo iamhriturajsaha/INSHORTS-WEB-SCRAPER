@@ -66,7 +66,7 @@ python Scraper.py
 ```
 4. Run the scraper - 
 ```
-!python "Inshorts Web Scraper/Scrapper.py"
+!python "Inshorts Web Scraper/Scraper.py"
 ```
 5. Download the output files if needed.
 
@@ -83,3 +83,4 @@ python Scraper.py
 * Build a dashboard for news visualization.
 * Implement news sentiment analysis using NLP.
 * Automate the scraper with scheduled jobs.
+
