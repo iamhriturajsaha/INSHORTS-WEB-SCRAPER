@@ -1,4 +1,4 @@
-# 🌐Python Web Scraper
+# 🌐Inshorts Web Scraper
 
 ## Overview
 
@@ -58,7 +58,7 @@ python Scraper.py
 1. Upload the project zip file to Colab.
 2. Unzip the project -
 ```
-!unzip "Python Web Scraper.zip"
+!unzip "Inshorts Web Scraper.zip"
 ```
 3. Install dependencies - 
 ```
@@ -84,5 +84,3 @@ python Scraper.py
 * Build a dashboard for news visualization.
 * Implement news sentiment analysis using NLP.
 * Automate the scraper with scheduled jobs.
-
-
