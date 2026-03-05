@@ -4,6 +4,15 @@
 
 This project is a Python-based web scraper that collects the latest news articles from the **Inshorts platform**. The scraper extracts key information such as headlines, summaries, authors, publish dates and article images. The collected data is stored in a structured JSON file and images are downloaded locally. This project demonstrates skills in web scraping, API handling, data cleaning and automation using Python.
 
+## Screenshots
+
+<p align="center">
+  <img src="Screenshots/1.png" alt="1" width="1000"/><br>
+  <img src="Screenshots/2.png" alt="2" width="1000"/><br>
+  <img src="Screenshots/3.png" alt="3" width="1000"/><br>
+  <img src="Screenshots/4.png" alt="4" width="1000"/><br>
+</p>
+
 ## Features
 
 * Scrapes multiple news categories from Inshorts.
@@ -83,4 +92,3 @@ python Scraper.py
 * Build a dashboard for news visualization.
 * Implement news sentiment analysis using NLP.
 * Automate the scraper with scheduled jobs.
-
